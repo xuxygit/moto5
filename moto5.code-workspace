@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "motoctrl.h": "c",
+      "motoparam.h": "c",
+      "statemachine.h": "c"
+    }
+  },
+  "extensions": {},
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": []
+  }
+}
